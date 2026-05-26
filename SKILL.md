@@ -2,7 +2,7 @@
 name: nsfc-rationale
 description: 国自然申请书立论依据专项写作技能 — 面向理工科（数理、化学、信息、工程、材料等）。提供标准结构、机理推导法、理论框架锚定、理工科专用句库、Mermaid技术演进图、写作流程与常见错误。触发词：立论依据怎么写,立论依据结构,理工科立论依据,NSFC rationale engineering science。
 trigger: "立论依据,立论依据怎么写,立论依据结构,理工科立论依据,NSFC rationale,research rationale engineering"
-author: OpenClaw Community
+author: CopyleftZ
 created: 2026-05-26
 tags: [research, nsfc, proposal-writing, academic, rationale, STEM]
 ---
